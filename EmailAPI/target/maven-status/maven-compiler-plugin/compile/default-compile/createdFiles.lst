@@ -1,0 +1,7 @@
+com\email\controller\EmailController.class
+com\email\service\EmailService.class
+com\email\config\CorsConfig.class
+com\email\config\CorsConfig$1.class
+com\email\service\EmailService$1.class
+com\email\EmailApplication.class
+com\email\model\EmailRequest.class
